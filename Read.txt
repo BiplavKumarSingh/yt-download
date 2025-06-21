@@ -1,0 +1,2 @@
+Download ffmpeg
+Then connect the path in environment variable and run the program 
